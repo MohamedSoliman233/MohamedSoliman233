@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Soliman
 
 💻 Junior Software Developer | Full-Stack Enthusiast  
-Passionate about building real-world applications and solving problems with clean and efficient code.
+Passionate about building real-world applications and solving real-life problems with code.
 
 ---
 
@@ -13,23 +13,39 @@ Passionate about building real-world applications and solving problems with clea
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Featured Projects
+
+### 🧠 Work Schedule System (🔥 Main Project)
+A full-stack web application for managing employee shifts and schedules.
+
+- 👨‍💼 Manager dashboard for assigning shifts  
+- 👷 Workers can select availability and view schedules  
+- 🛑 Time-off request system with approval flow  
+- 🔐 Authentication & role-based access  
+- 📊 Built with scalable structure (controllers, routes)
+
+**Tech:** Node.js, Express, MySQL, EJS  
+
+---
 
 ### 🐎 Horse Feeding Tracker
 A web app to track daily feeding activities with timestamps and user logging  
+
 **Tech:** Node.js, SQLite  
 
+---
+
 ### 🍽️ Online Restaurant Menu
-Dynamic restaurant menu with categories and user-friendly UI  
+Dynamic restaurant menu with categories and clean UI  
+
 **Tech:** HTML, CSS, JavaScript  
 
-### 🛒 Family Grocery Tracker
-A shared grocery list system for families with tracking and updates  
-**Tech:** Node.js, EJS, MySQL  
+---
 
-### 🚗 Car Tracker *(In Progress)*
-Track car expenses, maintenance, and usage logs  
-**Tech:** Node.js, MySQL  
+### 🛒 Family Grocery Tracker
+A shared grocery list system with tracking and updates  
+
+**Tech:** Node.js, EJS, MySQL  
 
 ---
 
@@ -53,7 +69,7 @@ HTML, CSS, JavaScript, Node.js, MySQL, C#, C++, Python, and building real-world 
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedSoliman233&show_icons=true&theme=default)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedSoliman233&show_icons=true)
 
 ---
 
