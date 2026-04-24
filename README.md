@@ -41,20 +41,26 @@ A full-stack web application for managing employee shifts, scheduling, and time-
 ### 📊 Dashboard
 ![Dashboard](./images/dashboard.jpeg)
 
-### 👷 Select Shifts
-![Select Shifts](./images/SelectShifts.jpeg)
+### 👷 Worker Dashboard
+![Worker](./images/worker.jpeg)
+
+### ✅ Select Shifts
+![Select Shifts](./images/selectshifts.jpeg)
 
 ### 📅 Assign Shifts
-![Assign](./images/assign.jpeg)
+![Assign Shifts](./images/assign.jpeg)
 
 ### 🗓️ Weekly Schedule
-![Schedule](./images/schedule.jpeg)
+![Weekly Schedule](./images/schedule.jpeg)
 
-### 🛑 Manage Time-Off Requests
-![TimeOff](./images/ManageTimeOff.jpeg)
+### 🛑 Time-Off Request Page
+![Time Off](./images/timeoff.jpeg)
+
+### 🛠️ Manage Time-Off Requests
+![Manage Time Off](./images/managetimeoff.jpeg)
 
 ### 🔔 Notifications
-![Notifications](./images/Notifications.jpeg)
+![Notifications](./images/notifications.jpeg)
 
 ### 📈 Statistics
 ![Stats](./images/stats.jpeg)
