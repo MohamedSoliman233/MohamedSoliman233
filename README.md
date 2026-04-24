@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Soliman
 
 💻 Junior Software Developer | Full-Stack Enthusiast  
-Passionate about building real-world applications and solving real-life problems with code.
+Passionate about building real-world applications and solving real-life problems with clean and efficient code.
 
 ---
 
@@ -10,21 +10,54 @@ Passionate about building real-world applications and solving real-life problems
 - 🧠 Currently improving my skills in **React, Node.js, and Python**  
 - ⚡ Fast learner with strong problem-solving mindset  
 - 🤝 Team player with hands-on project experience  
+- 🎯 Focused on building real-world systems and practical applications  
 
 ---
 
 ## 🏗️ Featured Projects
 
 ### 🧠 Work Schedule System (🔥 Main Project)
-A full-stack web application for managing employee shifts and schedules.
 
+A full-stack web application for managing employee shifts, scheduling, and time-off workflows.
+
+#### 🚀 Key Features:
 - 👨‍💼 Manager dashboard for assigning shifts  
-- 👷 Workers can select availability and view schedules  
-- 🛑 Time-off request system with approval flow  
-- 🔐 Authentication & role-based access  
-- 📊 Built with scalable structure (controllers, routes)
+- 👷 Worker shift selection and availability system  
+- 📅 Weekly schedule management  
+- 🛑 Time-off request & approval system  
+- 🔔 Notifications system  
+- 📊 Monthly statistics tracking  
+- 🔐 Role-based authentication (Manager / Worker)  
 
 **Tech:** Node.js, Express, MySQL, EJS  
+
+---
+
+## 📸 Project Preview
+
+### 🔐 Login Page
+![Login](./images/login.jpeg)
+
+### 📊 Dashboard
+![Dashboard](./images/dashboard.jpeg)
+
+### 👷 Select Shifts
+![Select Shifts](./images/SelectShifts.jpeg)
+
+### 📅 Assign Shifts
+![Assign](./images/assign.jpeg)
+
+### 🗓️ Weekly Schedule
+![Schedule](./images/schedule.jpeg)
+
+### 🛑 Manage Time-Off Requests
+![TimeOff](./images/ManageTimeOff.jpeg)
+
+### 🔔 Notifications
+![Notifications](./images/Notifications.jpeg)
+
+### 📈 Statistics
+![Stats](./images/stats.jpeg)
 
 ---
 
@@ -50,7 +83,7 @@ A shared grocery list system with tracking and updates
 ---
 
 ## 💬 Ask Me About
-HTML, CSS, JavaScript, Node.js, MySQL, C#, C++, Python, and building real-world projects
+HTML, CSS, JavaScript, Node.js, MySQL, C#, C++, Python, and building real-world applications
 
 ---
 
